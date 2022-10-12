@@ -1,0 +1,14 @@
+C:\Users\kml\source\repos\csgo\csgo\bin\Debug\netcoreapp3.1\csgo.exe
+C:\Users\kml\source\repos\csgo\csgo\bin\Debug\netcoreapp3.1\csgo.deps.json
+C:\Users\kml\source\repos\csgo\csgo\bin\Debug\netcoreapp3.1\csgo.runtimeconfig.json
+C:\Users\kml\source\repos\csgo\csgo\bin\Debug\netcoreapp3.1\csgo.runtimeconfig.dev.json
+C:\Users\kml\source\repos\csgo\csgo\bin\Debug\netcoreapp3.1\csgo.dll
+C:\Users\kml\source\repos\csgo\csgo\bin\Debug\netcoreapp3.1\csgo.pdb
+C:\Users\kml\source\repos\csgo\csgo\obj\Debug\netcoreapp3.1\csgo.csproj.AssemblyReference.cache
+C:\Users\kml\source\repos\csgo\csgo\obj\Debug\netcoreapp3.1\csgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kml\source\repos\csgo\csgo\obj\Debug\netcoreapp3.1\csgo.AssemblyInfoInputs.cache
+C:\Users\kml\source\repos\csgo\csgo\obj\Debug\netcoreapp3.1\csgo.AssemblyInfo.cs
+C:\Users\kml\source\repos\csgo\csgo\obj\Debug\netcoreapp3.1\csgo.csproj.CoreCompileInputs.cache
+C:\Users\kml\source\repos\csgo\csgo\obj\Debug\netcoreapp3.1\csgo.dll
+C:\Users\kml\source\repos\csgo\csgo\obj\Debug\netcoreapp3.1\csgo.pdb
+C:\Users\kml\source\repos\csgo\csgo\obj\Debug\netcoreapp3.1\csgo.genruntimeconfig.cache
